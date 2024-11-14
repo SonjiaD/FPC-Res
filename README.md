@@ -1,6 +1,6 @@
 # 🌐 BC HealthCare Directory: A Platform Supporting Family Caregivers 🌐
 
-## 🏆 **Explore the Website!**  
+## ⭐ **Explore the Website!**  
 **Live Link**: [BC HealthCare Directory](https://stephaniequon.ca/ResourcesforFamilyCaregivers/search.html)
 
 ---
