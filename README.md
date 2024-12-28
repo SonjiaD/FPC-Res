@@ -6,10 +6,9 @@
 ---
 
 ## 🔗 **Additional Links**
-
 - **GitHub**: [BC HealthCare Directory Repo](https://github.com/StephanieQuon/ResourcesforFamilyCaregivers)  
-- **Figma Design**: [BC HealthCare Directory Prototype](https://www.figma.com/design/h5CZYdqQOWploz87lqjGMh/FPC---Web-Design-Drafts?node-id=168-11926&t=Shju4GHIiXVZZCje-1)
-
+- **Figma Design**: [BC HealthCare Directory Prototype](https://www.figma.com/design/h5CZYdqQOWploz87lqjGMh/FPC---Web-Design-Drafts?node-id=168-11926&t=Shju4GHIiXVZZCje-1)  
+- **Case Study**: [BC HealthCare Case Study](https://www.canva.com/design/DAGanHOOuac/H7jKSsngZAVUpwlv_tdPjA/view?utlId=hdb8e260f81#1)  
 ---
 
 ## 📚 **Contributors**  
